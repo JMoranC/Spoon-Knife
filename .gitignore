@@ -1,0 +1,10 @@
+
+# ignore any files ending in .o or .a (object and archive files)
+*.[oa]
+
+
+# ignore all files that end with a tilde (~), (used to mark temporary files) 
+*~
+
+
+
